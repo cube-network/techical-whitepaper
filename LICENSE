@@ -1,0 +1,1 @@
+LaTeX whitepaper for CUBE

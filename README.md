@@ -1,3 +1,3 @@
-# techical-whitepaper
-## EN-US edition
-LateX whitepaper for Cube
+# LateX whitepaper for Cube
+## 1. EN-US edition
+

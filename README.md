@@ -1,3 +1,7 @@
 # Cube White Paper
-## EN-US Edition
-https://github.com/cube-network/techical-whitepaper/tree/master/EN-US
+
+|Locale|Url|
+|---|---|
+|EN-US|[Cube](https://github.com/cube-network/techical-whitepaper/tree/master/EN-US/Cube.pdf)|
+
+
